@@ -1,7 +1,5 @@
 # `skeleton-tool`
 
-A skeleton for creating Python tools. Includes build, documentation, and publishing steps.
-
 **Usage**:
 
 ```console
@@ -94,4 +92,3 @@ $ skeleton-tool shoot [OPTIONS] NAME
 **Options**:
 
 * `--help`: Show this message and exit.
-
