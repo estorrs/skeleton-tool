@@ -19,8 +19,8 @@ jobs:
         with:
           pixi-version: v0.23.0
           cache: true
-          auth-host: prefix.dev
-          auth-token: ${{ secrets.PREFIX_DEV_TOKEN }}
+          # auth-host: prefix.dev
+          # auth-token: ${{ secrets.PREFIX_DEV_TOKEN }}
       - run: pixi run -e test test
 
       - run: pixi run -e docs deploy
