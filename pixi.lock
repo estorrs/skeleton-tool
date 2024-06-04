@@ -7718,7 +7718,7 @@ packages:
   name: skeleton-tool
   version: 0.1.0
   path: .
-  sha256: ede51214732754b5347410deedb9401f2111e4f9a97e2fad5517052d96c8c6f7
+  sha256: a04b6acd2888148c3f221d6189b0aabde4502aeeab181aabeb5311cfffc9a4a2
   requires_dist:
   - griffe-typingdoc==0.2.2 ; extra == 'docs'
   requires_python: '>=3.11'
