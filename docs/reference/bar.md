@@ -3,7 +3,7 @@ Here is the reference information for Bar
 You can import it like so
 
 ```python
-from skeleton_tool.bar import Bar
+from skeleton_tool.foo.bar import Bar
 ```
 
-::: skeleton_tool.bar.Bar
+::: skeleton_tool.foo.bar.Bar
